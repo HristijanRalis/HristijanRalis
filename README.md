@@ -1,6 +1,6 @@
 - 👋 Hi, I am Hristian.
 - 👀 I’m interested in field of web development and creating a dinamicand modern leyouts for web pages. Now I'm at Brainster academy for Front-End .
-- 👀 I was learn about HTML,CSS,SCSS,Bootstrap,JavaScript,JavaScript Async , TypeScript & Git React  .
+- 👀 I was learn about HTML,CSS,SCSS,Bootstrap,JavaScript,JavaScript Async , TypeScript, React & Git  .
 - 🌱 I’m currently learning JavaScript
 - ⚡ Fun fact: The best thing come from living outside of your comfort zone!
 
